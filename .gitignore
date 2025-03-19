@@ -1,4 +1,6 @@
 /target
-result/
+result
 src/imgs
 src/imgs_ascii
+src/bad_apple.flac
+src/bad_apple2.wav
