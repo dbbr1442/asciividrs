@@ -1,0 +1,2 @@
+this is an absolute piece of garbage for many reasons: im terrible at rust as i jsut started learning it but couldnt be bothered to watch a tutorial, i couldnt decide what this project should actually be about so i changed my mind about 3 times, im bad at nix, i set up the project dumbly for example writing in absolute paths into the code, also there are bugs im too lazy to fix
+IF YOU WANT THIS TO WORK ON YOUR SYSTEM YOU WILL HAVE TO MAKE MODIFICATIONS
